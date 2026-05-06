@@ -1,0 +1,5 @@
+
+google-generativeai
+chromadb
+youtube-transcript-api
+langchain-text-splitters
